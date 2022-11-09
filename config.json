@@ -1,0 +1,26 @@
+{
+  "name": "Luis Henrique Ferrarezi (Tiu Luis)",
+  "job": "Senior Full Stack Developer",
+  "github": "luisferrarezi",
+  "playlists":{
+    "jogos": [
+      {
+        "title": "Algum Jogo",
+        "url": "url",
+        "thumbnail": "thumbnail do vídeo"
+      },
+      {
+        "title": "Algum Jogo 2",
+        "url": "url",
+        "thumbnail": "thumbnail do vídeo"
+      }
+    ],
+    "front-end": [
+      {
+        "title": "Algum Título",
+        "url": "url",
+        "thumbnail": "thumbnail do vídeo"
+      }
+    ]
+  }
+}

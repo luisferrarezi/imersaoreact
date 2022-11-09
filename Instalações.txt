@@ -1,0 +1,5 @@
+1 - Instalar o Nodejs mais recente, use o LTS sempre.
+2 - No terminal
+    npm init   
+	npm install next react react-dom
+    npm install styled-components
