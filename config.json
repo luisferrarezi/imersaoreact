@@ -5,21 +5,56 @@
   "playlists":{
     "jogos": [
       {
-        "title": "Algum Jogo",
-        "url": "url",
-        "thumbnail": "thumbnail do vídeo"
+        "title": "My Team F1 2020",
+        "url": "https://www.youtube.com/watch?v=sqy5b9OcDxc",
+        "thumbnail": "https://img.youtube.com/vi/sqy5b9OcDxc/hqdefault.jpg"
       },
       {
-        "title": "Algum Jogo 2",
-        "url": "url",
-        "thumbnail": "thumbnail do vídeo"
+        "title": "Assassin's Creed Unity",
+        "url": "https://www.youtube.com/watch?v=hY-Jd4DaIdc",
+        "thumbnail": "https://img.youtube.com/vi/hY-Jd4DaIdc/hqdefault.jpg"
+      },
+      {
+        "title": "X-Plane 11",
+        "url": "https://www.youtube.com/watch?v=jxc2vlxtFfA",
+        "thumbnail": "https://img.youtube.com/vi/jxc2vlxtFfA/hqdefault.jpg"
+      },
+      {
+        "title": "Batman Arkan Knight",
+        "url": "https://www.youtube.com/watch?v=ELk7eMyTG10",
+        "thumbnail": "https://img.youtube.com/vi/ELk7eMyTG10/hqdefault.jpg"
+      },
+      {
+        "title": "GTA V",
+        "url": "https://www.youtube.com/watch?v=5cz2kicoLZg",
+        "thumbnail": "https://img.youtube.com/vi/5cz2kicoLZg/hqdefault.jpg"
       }
     ],
-    "front-end": [
+    "aviacao": [
       {
-        "title": "Algum Título",
-        "url": "url",
-        "thumbnail": "thumbnail do vídeo"
+        "title": "DERRUBANDO A CULTURA DO MEDO (DOCUMENTÁRIO)",
+        "url": "https://www.youtube.com/watch?v=KmUYQMMrjoA",
+        "thumbnail": "https://img.youtube.com/vi/KmUYQMMrjoA/hqdefault.jpg"
+      },
+      {
+        "title": "Como é VOAR muito ALTO em um AVIÃO NÃO PRESSURIZADO.",
+        "url": "https://www.youtube.com/watch?v=wvVMGRR4bPA",
+        "thumbnail": "https://img.youtube.com/vi/wvVMGRR4bPA/hqdefault.jpg"
+      },
+      {
+        "title": "TUTORIAL: como CONFIGURAR um GAMEPAD para operar o DRONE no FS2020? EP181",
+        "url": "https://www.youtube.com/watch?v=SKXYiRpjUDI",
+        "thumbnail": "https://img.youtube.com/vi/SKXYiRpjUDI/hqdefault.jpg"
+      },
+      {
+        "title": "Configure QUALQUER CONTROLE, COMANDO ou FUNÇÃO no Microsoft Flight Simulator 2020",
+        "url": "https://www.youtube.com/watch?v=KIkNGCGyFpI",
+        "thumbnail": "https://img.youtube.com/vi/KIkNGCGyFpI/hqdefault.jpg"
+      },
+      {
+        "title": "FBW A380X | Progress Reveal",
+        "url": "https://www.youtube.com/watch?v=aTDZTMpGvww",
+        "thumbnail": "https://img.youtube.com/vi/aTDZTMpGvww/hqdefault.jpg"
       }
     ]
   }
