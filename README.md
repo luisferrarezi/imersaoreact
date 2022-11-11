@@ -14,7 +14,12 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Detalhes do projeto
 
-Apenas um projeto focado nos estudos de React
+Apenas um projeto focado nos estudos de React.
+
+Links de ferramentas necessárias para este projeto
+Layout: [https://www.figma.com/file/1acrju7CLwHkSh6e7xEk9h/Aluratube?node-id=0%3A1&t=Thx2aHcNPc34fpRV-0](Figma)
+Hospedagem: [https://vercel.com](Vercel)
+Styled-Component: [https://github.com/vercel/next.js](Next.js)
 
 # Getting Started with Create React App
 
